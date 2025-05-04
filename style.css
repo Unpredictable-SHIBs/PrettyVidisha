@@ -57,15 +57,15 @@ img {
   background-size: 150px; /* Adjust for smaller screens */
   background-position: center center;
   background-repeat: no-repeat;
-  opacity: 0.98;
+  opacity: 0.9;
 }
 
 p {
   font-family: 'Zeyada';
   font-size: 5vw; /* Adjust font-size to scale with viewport */
   color: rgb(229, 21, 21);
-  opacity: 0.99;
+  opacity: 0.95;
   user-select: none;
-  filter: drop-shadow(2px 1.5px 1px rgba(67, 9, 148, 0.9));
+  filter: drop-shadow(2px 1.5px 1px rgba(0,0,105,0.9));
   margin: 0; /* Remove default margin */
 }
