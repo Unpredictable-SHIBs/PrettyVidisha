@@ -36,7 +36,7 @@ body {
 }
 
 .paper.image p {
-  font-size: 6vw; /* Use viewport width for responsiveness */
+  font-size: 4vw; /* Use viewport width for responsiveness */
 }
 
 img {
@@ -62,7 +62,7 @@ img {
 
 p {
   font-family: 'Zeyada';
-  font-size: 8vw; /* Adjust font-size to scale with viewport */
+  font-size: 5vw; /* Adjust font-size to scale with viewport */
   color: rgb(229, 21, 21);
   opacity: 0.99;
   user-select: none;
